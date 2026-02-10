@@ -85,7 +85,7 @@ mvn test
 ---
 
 ## 📸 Screenshots
-Screenshots and diagrams are available in the `images/` directory.
+![Endpoints](src/images/endpoints.PNG)
 
 ---
 
