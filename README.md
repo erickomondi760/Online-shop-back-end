@@ -132,11 +132,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## 👨‍💻 Author
 **Erick Omondi**  
-Freelance Software Developer | Java & Spring Boot Specialist
+Software Developer | Java & Spring Boot Specialist
 
 ---
-
-👉 With these badges, your README instantly looks more professional and enterprise-ready.  
-
-Would you like me to also **set up GitHub Actions CI/CD workflow YAML** for automated builds and tests, so the build status badge reflects real-time pipeline results?
 
