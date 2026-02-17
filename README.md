@@ -1,6 +1,3 @@
-
-# 🛒 Online Shop Back-End
-
 # 🛒 Online Shop Back-End
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/erickomondi760/Online-shop-back-end/maven.yml?branch=main)
