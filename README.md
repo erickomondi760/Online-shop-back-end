@@ -1,12 +1,15 @@
 
 # 🛒 Online Shop Back-End
 
-`https://img.shields.io/github/actions/workflow/status/erickomondi760/Online-shop-back-end/maven.yml?branch=main`  
-`https://img.shields.io/github/license/erickomondi760/Online-shop-back-end`  
-`https://img.shields.io/badge/Java-17-blue`  
-`https://img.shields.io/badge/Spring%20Boot-3.0-green`  
-`https://img.shields.io/badge/Docker-ready-blue`  
-`https://img.shields.io/codecov/c/github/erickomondi760/Online-shop-back-end`
+# 🛒 Online Shop Back-End
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/erickomondi760/Online-shop-back-end/maven.yml?branch=main)
+![License](https://img.shields.io/github/license/erickomondi760/Online-shop-back-end)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-green)
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![Coverage](https://img.shields.io/codecov/c/github/erickomondi760/Online-shop-back-end)
+
 
 A robust **Java Spring Boot** back-end service for an online shopping platform. This project provides APIs for managing products, users, authentication, and orders, designed with scalability and maintainability in mind.
 
